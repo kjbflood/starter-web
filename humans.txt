@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    The source and all his adherents.
 
 # TECHNOLOGY COLOPHON
 
