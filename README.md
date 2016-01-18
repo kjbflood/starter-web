@@ -16,7 +16,7 @@ This is a simple web project. Deployment can be on any web server or even local 
 
 ## How to Contribute
 
-Send me money. What ever you want.
+Send me money. What ever you want. Please fork this repository.
 
 ##Copyright
 
