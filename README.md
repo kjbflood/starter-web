@@ -17,3 +17,7 @@ This is a simple web project. Deployment can be on any web server or even local 
 ## How to Contribute
 
 Send me money. What ever you want.
+
+##Copyright
+
+2016 Kevin Flood
