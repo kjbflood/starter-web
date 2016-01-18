@@ -15,3 +15,5 @@ Sample website with plenty of files for demos to show git commands.
 This is a simple web project. Deployment can be on any web server or even local file system.
 
 ## How to Contribute
+
+Send me money. What ever you want.
