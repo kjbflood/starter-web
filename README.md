@@ -21,4 +21,4 @@ Send me money. What ever you want. Please fork this repository.
 
 ##Copyright
 
-2016 Kevin Flood. All rights reserved.
+2016 Kevin Flood. All rights reserved again.
